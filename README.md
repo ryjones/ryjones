@@ -4,7 +4,7 @@
   - ⚡ [LinkedIn](https://www.linkedin.com/in/ryjones/)
   - [blog](https://blog.ryjones.org)
 
-![gitfut card for @ryjones](https://gitfut.com/ryjones.png)
+[![gitfut card for @ryjones](https://gitfut.com/ryjones.png)](https://gitfut.com/ryjones)
 
 Donate to support Ukraine:
 
