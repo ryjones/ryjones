@@ -12,6 +12,3 @@ Donate to support Ukraine:
 [![](cw.jpeg)](https://www.facebook.com/Colawarrior/)
 
 <a rel="me" href="https://fosstodon.org/@ryjones">Mastodon</a>
-
-[![gitfut card for @ryjones](https://gitfut.com/ryjones.png)](https://gitfut.com/ryjones)
-
